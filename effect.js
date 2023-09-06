@@ -1,7 +1,7 @@
 $(window).load(setTimeout(function () {
 	$('.loading').fadeOut('fast');
 	$('.container').fadeIn('fast');
-}, 1500));
+}, 1000));
 
 $('document').ready(function () {
 	var vw;
